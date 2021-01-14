@@ -17,8 +17,8 @@ ___
 
 
 ## Screenshots:
-![screeshot](assets\screenshot.png)
-![screeshot](assets\screenshot2.png)
+![screeshot](assets/screenshot.png)
+![screeshot](assets/screenshot2.png)
 
 
 
